@@ -29,5 +29,14 @@ A Python-based interactive visualizer to demonstrate **Data Structures and Algor
 
 ---
 
-## 🧠 Project Structure
+
+---
+
+## ▶ How to Run
+
+1. Clone the repository or open the project folder
+2. Navigate to root directory:
+```powershell
+cd path/to/DSA-Visualizer
+
 
